@@ -1,70 +1,65 @@
-# Privacy Policy
+## AHDH Reader Privacy Policy
 
-**AHDH Reader** is built as a free application. This SERVICE is provided at no cost and is intended for use as is.
+AHDH Reader is built as a Free app. This SERVICE is provided at no cost and is intended for use as is.
 
-This page is used to inform users regarding policies with the collection, use, and disclosure of information if anyone decides to use the Service.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-If you choose to use this Service, then you agree to this Privacy Policy. **AHDH Reader does not collect, store, or share any personal data.**
+If you choose to use my Service, then you agree to this Privacy Policy. AHDH Reader does not collect or use any Personal Information for analytics, advertising, or tracking purposes.
 
----
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at AHDH Reader unless otherwise defined in this Privacy Policy.
 
-## Information Collection and Use
+**Information Collection and Use**
 
-**AHDH Reader does not collect any personally identifiable information.**
+AHDH Reader does not require you to provide any personally identifiable information.
 
-- No analytics data is collected  
-- No advertisements are displayed  
-- No user behavior tracking is performed  
-- No data is transmitted to external servers  
+Any data related to books (such as files opened by the user) is stored locally on your device and is not collected, transmitted, or accessed by me in any way.
 
-All books, files, and related data remain **locally on the user’s device** and are not accessed by the developer.
+The app does not use analytics services and does not display advertisements.
 
----
+The app does not use third-party services that collect information used to identify you.
 
-## Third-Party Services
+**Log Data**
 
-AHDH Reader **does not use any third-party services** that collect user data.
+I want to inform you that AHDH Reader does not collect Log Data.
 
----
+In case of an error in the app, no diagnostic or usage data is transmitted to me or to any third-party services.
 
-## Log Data
+**Cookies**
 
-AHDH Reader does **not** collect log data, diagnostic data, or crash reports through third-party services.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.
 
----
+This Service does not use cookies, and no third-party code or libraries that use cookies are included in the app.
 
-## Cookies
+**Service Providers**
 
-This Service does **not** use cookies.
+I do not employ third-party companies or individuals to facilitate the Service, provide the Service on my behalf, perform Service-related services, or analyze how the Service is used.
 
----
+**Security**
 
-## Security
+I value your trust in using this Service. Since AHDH Reader does not collect or transmit personal data, all user content remains on the user’s device.
 
-Since AHDH Reader does not collect or transmit any user data, there is no risk of personal data exposure through network transmission. All data remains on the user’s device.
+However, please remember that no method of electronic storage is 100% secure and reliable, and I cannot guarantee absolute security.
 
----
+**Links to Other Sites**
 
-## Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site.
 
-This Service may contain links to external websites. Please note that these external sites are not operated by AHDH Reader. It is recommended to review the Privacy Policy of any third-party sites you visit.
+Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
----
+**Children’s Privacy**
 
-## Children’s Privacy
+These Services do not address anyone under the age of 13.
 
-AHDH Reader does not knowingly collect any personally identifiable information from children under the age of 13. As no data is collected, no child-related data can be stored or processed.
+I do not knowingly collect personally identifiable information from children under 13. As no personal data is collected by the app, no such information can be stored or processed.
 
----
+**Changes to This Privacy Policy**
 
-## Changes to This Privacy Policy
+I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
 
-This Privacy Policy may be updated from time to time. Any changes will be posted on this page and are effective immediately after posting.
+Any changes are effective immediately after they are posted on this page.
 
----
+**Contact Us**
 
-## Contact Us
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me at:
 
-If you have any questions or suggestions about this Privacy Policy, you can contact the developer at:
-
-**Email:** your_email@example.com
+your_email@example.com
