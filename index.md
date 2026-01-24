@@ -62,4 +62,4 @@ Any changes are effective immediately after they are posted on this page.
 
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me at:
 
-your_email@example.com
+codeandnode@icloud.com
