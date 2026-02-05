@@ -1,18 +1,18 @@
-## AHDH Reader Privacy Policy
+## AHDH Book Reader Privacy Policy
 
-AHDH Reader is built as a Free app. This SERVICE is provided at no cost and is intended for use as is.
+AHDH Book Reader is built as a Free app. This SERVICE is provided at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decides to use my Service.
 
-If you choose to use my Service, then you agree to this Privacy Policy. AHDH Reader does not collect or use any Personal Information for analytics, advertising, or tracking purposes.
+If you choose to use my Service, then you agree to this Privacy Policy. AHDH Book Reader does not collect or use any Personal Information for analytics, advertising, or tracking purposes.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at AHDH Reader unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at AHDH Book Reader unless otherwise defined in this Privacy Policy.
 
 ---
 
 ### Information Collection and Use
 
-AHDH Reader does not require you to provide any personally identifiable information.
+AHDH Book Reader does not require you to provide any personally identifiable information.
 
 Any data related to books (such as files opened by the user) is stored locally on your device and is not collected, transmitted, or accessed by me in any way.
 
@@ -24,9 +24,9 @@ The app does not use third-party services that collect information used to ident
 
 ### In-App Purchases and Subscriptions
 
-AHDH Reader offers optional in-app subscriptions to access premium features. Currently, subscriptions are available on a monthly or yearly basis.
+AHDH Book Reader offers optional in-app subscriptions to access premium features. Currently, subscriptions are available on a monthly or yearly basis.
 
-Payments for subscriptions are processed through your Apple ID and are handled by Apple. AHDH Reader does not access or store your payment information.
+Payments for subscriptions are processed through your Apple ID and are handled by Apple. AHDH Book Reader does not access or store your payment information.
 
 Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage or cancel your subscriptions through your Apple ID settings.
 
@@ -36,7 +36,7 @@ The app itself does not collect or store any information related to your subscri
 
 ### Log Data
 
-I want to inform you that AHDH Reader does not collect Log Data.
+I want to inform you that AHDH Book Reader does not collect Log Data.
 
 In case of an error in the app, no diagnostic or usage data is transmitted to me or to any third-party services.
 
@@ -58,7 +58,7 @@ I do not employ third-party companies or individuals to facilitate the Service, 
 
 ### Security
 
-I value your trust in using this Service. Since AHDH Reader does not collect or transmit personal data, all user content remains on the user’s device.
+I value your trust in using this Service. Since AHDH Book Reader does not collect or transmit personal data, all user content remains on the user’s device.
 
 However, please remember that no method of electronic storage is 100% secure and reliable, and I cannot guarantee absolute security.
 
